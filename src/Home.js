@@ -8,6 +8,7 @@ import masy from "./image/home6.webp"
 import masx from "./image/home7.webp"
 import masz from "./image/home8.webp"
 import { NavLink } from 'react-router-dom'
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
 
 
 

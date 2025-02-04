@@ -4,9 +4,9 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // This includes both Bootst
 
 import './App.css';
 
-import Home from "./Home";
+// import Home from "./Home";
 import Footer from "./Footer";
-import About from "./About";
+// import About from "./About";
 import Header from "./Header";
 import Routing from "./Routing";
 
