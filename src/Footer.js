@@ -121,7 +121,7 @@ const Footer = () => {
                             <h5 className="fw-bold">Contact Sales</h5>
                             <p>   <FontAwesomeIcon icon={faPhoneAlt} size="1x" color="green" /> + 91 9346295263
                             </p>
-                            <p>              <FontAwesomeIcon icon={faEnvelope} size="1x" color="orange" />  gottalokesh@gamil.com</p>
+                            <p>              <FontAwesomeIcon icon={faEnvelope} size="1x" color="orange" />  gottalokesh@gmail.com</p>
 
                         </div>
 
