@@ -6,7 +6,7 @@ import Readmore from './Readmore'
 import Contact from './Contact'
 import Courses from './Courses'
 import Hire from './Hire'
-
+import ScrollToTop from "./ScrollToTop";
 
 
 const Routing = () => {

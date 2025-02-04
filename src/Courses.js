@@ -58,11 +58,6 @@ const Courses = () => {
                             <button type="button" className="btn btn-primary m-4">Go somewhere</button>
                         </NavLink>
 
-                        <NavLink className="nav-link active" to="/readmore">
-                            <button type="button" className="btn btn-primary m-4">Go somewhere</button>
-                        </NavLink>
-
-
                     </div>
 
                 </div>

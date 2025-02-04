@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // This includes both Bootstrap CSS and JS
-
+import ScrollToTop from "./ScrollToTop";
 
 import './App.css';
 
@@ -16,7 +16,7 @@ import Routing from "./Routing";
 function App() {
   return (
     <div className="App">
-      
+      <ScrollToTop />
        <Header/>
        <Routing/>
        <Footer/>
